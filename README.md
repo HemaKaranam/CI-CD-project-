@@ -1,2 +1,3 @@
-# CI-CD-project-
-Tis project is for testing Jenkins CI-CD project 
+# maven-project
+
+Simple Maven Project
